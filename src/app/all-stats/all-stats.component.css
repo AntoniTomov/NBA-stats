@@ -1,0 +1,30 @@
+.team-wrap {
+  border: 4px double #2ea943;
+  margin: 1em;
+  padding: 1em;
+  width: 15em;
+  min-height: 11em;
+  border-radius: 16px;
+  display: inline-block;
+}
+
+.teams-wrap {
+  max-width: 80em;
+  display: table;
+  margin: 0 auto;
+}
+
+.team-wrap::selection {
+  background-color: #f1c40f;
+}
+
+.teams-wrap::selection {
+  background-color: #f1c40f;
+}
+
+.truncate {
+  width: 215px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

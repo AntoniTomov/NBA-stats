@@ -1,0 +1,26 @@
+.player-wrap{
+    border: 4px double orange;
+    margin: 1em;
+    padding: 1em;
+    width: 15em;
+    min-height: 11em;
+    border-radius: 16px;
+    display: inline-block;
+}
+
+.players-wrap {
+  max-width: 80em;
+  display: table;
+  margin: 0 auto;
+}
+
+.player-wrap:hover {
+  transform: scale(1.15);
+}
+
+.truncate {
+  width: 215px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+.error-input{
+  color:red;
+  font-weight: bold;
+  font-size: 20px;
+}
+.search-input {
+  display: table;
+  margin: 0 auto;
+}
+.submit-button {
+  display: table;
+  margin: 0 auto;
+  border-radius: 16px;
+  border: 6px double #1976d2;
+  outline-width:0px;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
