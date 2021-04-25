@@ -6,6 +6,13 @@
           "fir-project-d9b09"
         ]
       }
+    },
+    "nba-stats-a6071": {
+      "hosting": {
+        "nbastats": [
+          "nba-stats-a6071"
+        ]
+      }
     }
   }
 }
