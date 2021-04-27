@@ -1,6 +1,6 @@
 # Link to website
 
-https://fir-project-d9b09.web.app/all-games
+https://nba-stats-a6071.web.app
 
 ## Created by
 
